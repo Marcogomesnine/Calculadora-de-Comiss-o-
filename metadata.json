@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Comissão Imobiliária",
+  "description": "Uma ferramenta para corretores de imóveis calcularem e acompanharem suas comissões de vendas de forma simples e visual, com histórico de transações e gráficos mensais.",
+  "requestFramePermissions": []
+}
